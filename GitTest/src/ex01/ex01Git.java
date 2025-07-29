@@ -6,6 +6,8 @@ public class ex01Git {
 		
 		System.out.println("팀장이다.");
 		System.out.println("나는 임다이다.");
+	
+		System.out.println("충돌2이다");
 	}
 
 }
